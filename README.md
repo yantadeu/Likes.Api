@@ -4,6 +4,8 @@ Using Morgan, Helmet, Cors, Express rescue, Express rate limit and others middle
 
 ### How to run
 
+1. Use node version >= 20.0.0
+
 ```
 npm run dev
 ```

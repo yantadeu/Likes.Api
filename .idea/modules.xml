@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nodejs-middleware-express-api-template.iml" filepath="$PROJECT_DIR$/.idea/nodejs-middleware-express-api-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Likes.Api/.idea/Likes.Api.iml" filepath="$PROJECT_DIR$/../Likes.Api/.idea/Likes.Api.iml" />
     </modules>
   </component>
 </project>
