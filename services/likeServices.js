@@ -12,7 +12,6 @@ const images = [
 ];
 
 const getCountsById = (req, res, next) => {
-    console.log()
     const { id } = req.params;
     const result = images.find(image => image.id === id);
 
